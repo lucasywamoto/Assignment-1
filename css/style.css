@@ -1,0 +1,29 @@
+html {
+    background-color: #0d6efd;
+}
+
+body {
+    width: 60%;
+    padding: 32px;
+    background-color: white;
+    border-radius: 16px;
+    margin: 128px auto;
+}
+
+.input-container {
+    display: flex;
+    gap: 32px;
+}
+
+select {
+    font-size: 14px !important;
+}
+
+.form-buttons {
+    margin-top: 16px;
+}
+
+button[type="reset"] {
+    background-color: grey;
+    border: grey;
+}
